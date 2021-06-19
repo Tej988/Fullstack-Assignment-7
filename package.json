@@ -1,0 +1,23 @@
+{
+  "name": "assignment-7",
+  "version": "1.0.0",
+  "description": "This is the assignment 7",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tej988/Fullstack-Assignment-7.git"
+  },
+  "author": "Tej prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tej988/Fullstack-Assignment-7/issues"
+  },
+  "homepage": "https://github.com/Tej988/Fullstack-Assignment-7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
